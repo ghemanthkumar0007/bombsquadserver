@@ -1,6 +1,8 @@
 {
   "routes": [
     { "src": "/", "dest": "/home.html" },
-    { "src": "/bestproject", "status": 301, "headers": { "Location": "https://github.com/ghk" } }
+    { "src": "/bombsquad-game-server", "dest": "https://github.com/ghemanthkumar0007/bombsquadserver", "status": 301 },
+    { "src": "/best-project", "dest": "https://github.com/ghemanthkumar0007/bombsquadserver", "status": 301 },
+    { "src": "/domain-ln-vul", "dest": "https://drive.google.com/drive/folders/1iHZn5cW9FUPfQ_ewdNKIOOLb8WW8TAC2?usp=sharing", "status": 301 }
   ]
 }
