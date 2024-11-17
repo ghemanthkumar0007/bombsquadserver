@@ -4,5 +4,9 @@
     { "src": "/bombsquad-game-server", "dest": "https://github.com/ghemanthkumar0007/bombsquadserver", "status": 301 },
     { "src": "/best-project", "dest": "https://github.com/ghemanthkumar0007/bombsquadserver", "status": 301 },
     { "src": "/domain-ln-vul", "dest": "https://drive.google.com/drive/folders/1iHZn5cW9FUPfQ_ewdNKIOOLb8WW8TAC2?usp=sharing", "status": 301 }
+    { "src": "/crm-frontend", "dest": "https://drive.google.com/drive/folders/1Mw5fyvgxPIf4qrJnzby-mz1KaJE6lF6p?usp=sharing", "status": 301 }
+    { "src": "/crm-video", "dest": "https://drive.google.com/drive/folders/1Mw5fyvgxPIf4qrJnzby-mz1KaJE6lF6p?usp=sharing", "status": 301 }
+    { "src": "/crm-backend", "dest": "https://drive.google.com/drive/folders/1Mw5fyvgxPIf4qrJnzby-mz1KaJE6lF6p?usp=sharing", "status": 301 }
+    { "src": "/crm-site", "dest": "https://drive.google.com/drive/folders/1Mw5fyvgxPIf4qrJnzby-mz1KaJE6lF6p?usp=sharing", "status": 301 }
   ]
 }
